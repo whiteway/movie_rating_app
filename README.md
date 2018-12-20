@@ -1,4 +1,4 @@
-# movie_rating_app
+# movie_rating_app2
 
 > A Vue.js project
 
